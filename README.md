@@ -1,17 +1,40 @@
-# Hi, I'm Daniel 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey,%20I'm%20Daniel!%20👋&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
-📍 **San Francisco** | 🎨 **Designer** | 🔗 **Web3 Builder**
+<p align="center">
+  <a href="https://www.danielolarte.co"><img height="30" src="https://img.shields.io/badge/-danielolarte.co-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>&nbsp;
+  <a href="https://github.com/olarte"><img height="30" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![Celo](https://img.shields.io/badge/-Celo-35D07F?style=flat-square&logo=celo&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+---
 
-> Designer turned builder — shipping at the intersection of design, crypto, and emerging markets. I believe great products come from obsessing over both the interface and the infrastructure.
+```yaml
+name: Daniel Olarte
+located_in: San Francisco, CA
+current_focus: Building for emerging markets with crypto, AI, and WhatsApp
+background:
+  - Designer turned full-stack builder
+  - Shipping products at the intersection of design, DeFi, and LatAm
+  - Obsessed with making powerful tools feel simple
+```
+
+---
+
+<h2>🚀 &nbsp;Tools & Technologies</h2>
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="solidity" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="vercel" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+</p>
 
 ---
 
@@ -31,25 +54,27 @@
 
 ---
 
-## What I'm Building Toward
+<h2>📊 &nbsp;GitHub Stats</h2>
 
-- **DeFi for emerging markets** — Making financial tools accessible where they matter most
-- **Agent-powered services** — Exploring how AI agents can participate in on-chain economies
-- **Design-driven Web3** — Bringing product design craft to crypto applications
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=olarte&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olarte&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
----
-
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/olarte)
-
----
-
-## Connect
-
-[![Website](https://img.shields.io/badge/-danielolarte.co-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://www.danielolarte.co)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/olarte)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=olarte&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-> "Good design is good business — especially on-chain."
+<h2>🐍 &nbsp;Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://github.com/olarte/olarte/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
