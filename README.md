@@ -19,6 +19,20 @@ background:
 
 ---
 
+## Projects
+
+- 📡 **[Blockradar Follow-Up Engine](https://github.com/olarte/blockradar-follow-up-engine)** — Automated multi-user follow-up engine for Blockradar's commercial team `PLpgSQL` `Shell`
+- 🏢 **[La Admin](https://github.com/olarte/laadmin)** — WhatsApp-native AI agent + web dashboard for Colombian copropiedad management (Ley 675) `TypeScript` `Next.js` `Supabase` `Twilio` `Claude AI`
+- ⚽ **[Polla Football](https://github.com/olarte/polla-app)** — World Cup 2026 prediction game `TypeScript` `Next.js` `Supabase` `Wagmi` `Viem`
+- 💰 **[Qori](https://github.com/olarte/qori)** — WhatsApp-native USDT + gold wallet for Colombia `TypeScript` `Next.js` `Supabase` `Viem`
+- 🏛️ **[BelleEpoch](https://github.com/olarte/BelleEpoch)** — Continuous clearing auctions for agent services ([belleepoch.xyz](https://belle-epoch.vercel.app)) `JavaScript` `Hardhat` `Ethers.js` `Redis`
+- 🎯 **[Dolly](https://github.com/olarte/dolly-app)** — Wallet-native prediction game on Celo. Bet on your currency vs the dollar ([live](https://dolly-app-web.vercel.app)) `TypeScript` `Solidity` `Celo`
+- 🌿 **[Miz](https://github.com/olarte/miz)** — Next.js app with Supabase, shadcn/ui, and Zustand `TypeScript` `Next.js` `Supabase` `Tailwind` `shadcn/ui`
+- 🧠 **[Signal & Self](https://github.com/olarte/signal-and-self)** — Mobile AI companion for self-discovery and intentional public expression `TypeScript` `Expo` `React Native` `Supabase`
+- 💱 **[Predolar](https://github.com/olarte/predolar)** — Currency prediction market `TypeScript` `Solidity` `Hardhat` `Viem`
+
+---
+
 <h2>🚀 &nbsp;Tools & Technologies</h2>
 
 <p align="left">
@@ -55,18 +69,4 @@ background:
 <img src="https://img.shields.io/badge/-PostHog-F6A623?style=flat-square&logo=posthog&logoColor=black" alt="posthog" height="25"/>
 <img src="https://img.shields.io/badge/-Zustand-443E38?style=flat-square&logo=react&logoColor=white" alt="zustand" height="25"/>
 </p>
-
----
-
-## Projects
-
-- 📡 **[Blockradar Follow-Up Engine](https://github.com/olarte/blockradar-follow-up-engine)** — Automated multi-user follow-up engine for Blockradar's commercial team `PLpgSQL` `Shell`
-- 🏢 **[La Admin](https://github.com/olarte/laadmin)** — WhatsApp-native AI agent + web dashboard for Colombian copropiedad management (Ley 675) `TypeScript` `Next.js` `Supabase` `Twilio` `Claude AI`
-- ⚽ **[Polla Football](https://github.com/olarte/polla-app)** — World Cup 2026 prediction game `TypeScript` `Next.js` `Supabase` `Wagmi` `Viem`
-- 💰 **[Qori](https://github.com/olarte/qori)** — WhatsApp-native USDT + gold wallet for Colombia `TypeScript` `Next.js` `Supabase` `Viem`
-- 🏛️ **[BelleEpoch](https://github.com/olarte/BelleEpoch)** — Continuous clearing auctions for agent services ([belleepoch.xyz](https://belle-epoch.vercel.app)) `JavaScript` `Hardhat` `Ethers.js` `Redis`
-- 🎯 **[Dolly](https://github.com/olarte/dolly-app)** — Wallet-native prediction game on Celo. Bet on your currency vs the dollar ([live](https://dolly-app-web.vercel.app)) `TypeScript` `Solidity` `Celo`
-- 🌿 **[Miz](https://github.com/olarte/miz)** — Next.js app with Supabase, shadcn/ui, and Zustand `TypeScript` `Next.js` `Supabase` `Tailwind` `shadcn/ui`
-- 🧠 **[Signal & Self](https://github.com/olarte/signal-and-self)** — Mobile AI companion for self-discovery and intentional public expression `TypeScript` `Expo` `React Native` `Supabase`
-- 💱 **[Predolar](https://github.com/olarte/predolar)** — Currency prediction market `TypeScript` `Solidity` `Hardhat` `Viem`
 
