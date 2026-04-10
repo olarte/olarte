@@ -72,8 +72,3 @@ background:
 - 🧠 **[Signal & Self](https://github.com/olarte/signal-and-self)** — Mobile AI companion for self-discovery and intentional public expression `TypeScript` `Expo` `React Native` `Supabase`
 - 💱 **[Predolar](https://github.com/olarte/predolar)** — Currency prediction market `TypeScript` `Solidity` `Hardhat` `Viem`
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
