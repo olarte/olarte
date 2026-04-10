@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey,%20I'm%20Daniel!%20👋&animation=fadeIn&type=waving&color=gradient&height=100&fontColor=000000"/>
-</p>
+<h1 align="center">Hey, I'm Daniel! 👋</h1>
 
 <p align="center">
   <a href="https://olarte.co"><img height="30" src="https://img.shields.io/badge/-olarte.co-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>&nbsp;
