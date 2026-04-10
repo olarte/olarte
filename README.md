@@ -2,17 +2,10 @@
 
 <a href="https://olarte.co"><img height="30" src="https://img.shields.io/badge/-olarte.co-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 
----
 
-```yaml
-name: Daniel Olarte
-located_in: San Francisco, CA
-current_focus: Building for emerging markets with crypto, AI, and WhatsApp
-background:
-  - Designer turned full-stack builder
-  - Shipping products at the intersection of design, DeFi, and LatAm
-  - Obsessed with making powerful tools feel simple
-```
+Designer turned full-stack builder. Exploring AI, Web3, Stablecoins, and Prediction Markets.
+
+Ex Celo, ex Sutter Health. Currently working as Product Lead at Blockradar.
 
 ---
 
