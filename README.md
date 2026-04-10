@@ -17,8 +17,14 @@
 
 ## Projects
 
+- 📡 **[Blockradar Follow-Up Engine](https://github.com/olarte/blockradar-follow-up-engine)** — Automated multi-user follow-up engine for Blockradar's commercial team `PLpgSQL`
+- 🏢 **[La Admin](https://github.com/olarte/laadmin)** — WhatsApp-native AI agent + web dashboard for Colombian copropiedad management (Ley 675) `TypeScript`
+- ⚽ **[Polla Football](https://github.com/olarte/polla-app)** — World Cup 2026 prediction game `TypeScript`
+- 💰 **[Qori](https://github.com/olarte/qori)** — WhatsApp-native USDT + gold wallet for Colombia `TypeScript`
 - 🏛️ **[BelleEpoch](https://github.com/olarte/BelleEpoch)** — Continuous clearing auctions for agent services ([belleepoch.xyz](https://belle-epoch.vercel.app)) `JavaScript`
 - 🎯 **[Dolly](https://github.com/olarte/dolly-app)** — Wallet-native prediction game on Celo. Bet on your currency vs the dollar ([live](https://dolly-app-web.vercel.app)) `TypeScript`
+- 🌿 **[Cana](https://github.com/olarte/cana-app)** — Cana app ([live](https://cana-app.vercel.app)) `TypeScript`
+- 🧠 **[Signal & Self](https://github.com/olarte/signal-and-self)** — Mobile AI companion for self-discovery and intentional public expression `TypeScript`
 - 💱 **[Predolar](https://github.com/olarte/predolar)** — Currency prediction market `TypeScript`
 - 🌉 **[StablecoinArbBridge](https://github.com/olarte/StabeArbYieldBridge)** — Stablecoin arbitrage yield bridge `TypeScript`
 - 🔄 **[Stablecoin Arb Bridge v2](https://github.com/olarte/stablecoin-arbitrage-bridge-v2)** — V2 with improved routing and execution `JavaScript`
