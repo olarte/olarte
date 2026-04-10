@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey,%20I'm%20Daniel!%20👋&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hey,%20I'm%20Daniel!%20👋&animation=fadeIn&type=waving&color=gradient&height=100&fontColor=000000"/>
 </p>
 
 <p align="center">
-  <a href="https://www.danielolarte.co"><img height="30" src="https://img.shields.io/badge/-danielolarte.co-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>&nbsp;
+  <a href="https://olarte.co"><img height="30" src="https://img.shields.io/badge/-olarte.co-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>&nbsp;
   <a href="https://github.com/olarte"><img height="30" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
@@ -71,27 +71,6 @@ background:
 - 🌿 **[Miz](https://github.com/olarte/miz)** — Next.js app with Supabase, shadcn/ui, and Zustand `TypeScript` `Next.js` `Supabase` `Tailwind` `shadcn/ui`
 - 🧠 **[Signal & Self](https://github.com/olarte/signal-and-self)** — Mobile AI companion for self-discovery and intentional public expression `TypeScript` `Expo` `React Native` `Supabase`
 - 💱 **[Predolar](https://github.com/olarte/predolar)** — Currency prediction market `TypeScript` `Solidity` `Hardhat` `Viem`
-
----
-
-<h2>📊 &nbsp;GitHub Stats</h2>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=olarte&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olarte&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=olarte&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<h2>🐍 &nbsp;Contribution Snake</h2>
-
-<p align="center">
-  <img src="https://github.com/olarte/olarte/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
 
 ---
 
