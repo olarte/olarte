@@ -1,9 +1,6 @@
-<h1 align="center">Hey, I'm Daniel! 👋</h1>
+# Hey, I'm Daniel! 👋
 
-<p align="center">
-  <a href="https://olarte.co"><img height="30" src="https://img.shields.io/badge/-olarte.co-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>&nbsp;
-  <a href="https://github.com/olarte"><img height="30" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+<a href="https://olarte.co"><img height="30" src="https://img.shields.io/badge/-olarte.co-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 
 ---
 
